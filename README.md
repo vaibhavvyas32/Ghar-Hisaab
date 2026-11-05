@@ -2,7 +2,7 @@
 
 <img src="public/icon-192.png" width="88" alt="Daily Tracker icon" />
 
-# Daily Tracker
+# Ghar Hisaab
 
 **Keep a clean record of your milkman, dry cleaning and ironing (press), and know exactly what you owe each month.**
 
