@@ -1,0 +1,11 @@
+{
+  "appId": "com.dailytracker.app",
+  "appName": "Daily Tracker",
+  "webDir": "dist",
+  "plugins": {
+    "SystemBars": {
+      "style": "LIGHT",
+      "initialViewportFitValueHint": "cover"
+    }
+  }
+}
